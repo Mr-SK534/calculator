@@ -50,7 +50,7 @@ Fork this repository, open issues, or submit pull requests to help improve and e
 ### 🧑‍💻 Author
 
 **Your Name**  
-🌐 Portfolio: [https://portfolio-2cxyg9m1l-sharad-kumars-projects-53e5f83a.vercel.app]  
+🌐 Portfolio: [https://portfolio-1hek1wldq-sharad-kumars-projects-53e5f83a.vercel.app]  
 💼 GitHub: [https://github.com/Mr-SK534]  
 📧 Email: [ksharad534@gmail.com]
 
