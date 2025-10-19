@@ -36,7 +36,7 @@ A modern, interactive **Calculator Web App** built with **HTML, CSS, and JavaScr
 
 ### 🖥️ Live Demo
 
-[Try the Calculator App here!](your-live-demo-link)
+[Try the Calculator App here!](https://calculator-tawny-six-46.vercel.app/)
 
 ---
 
